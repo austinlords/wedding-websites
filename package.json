@@ -1,19 +1,19 @@
 {
-  "name": "gatsby-starter-ghost",
-  "description": "A starter template to build lightning fast websites with Ghost and Gatsby",
-  "version": "2.0.0",
+  "name": "keely-austin-2022",
+  "description": "Keely & Austin Wedding 2022",
+  "version": "1.0.0",
   "license": "MIT",
-  "author": "Ghost Foundation",
-  "homepage": "https://docs.ghost.org/api/gatsby/",
+  "author": "Austin Lords",
+  "homepage": "https://2022-keelyaustin.ghost.io",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tryghost/gatsby-starter-ghost.git"
+    "url": "git+https://github.com/austinlords/wedding-websites"
   },
   "engines": {
     "node": ">= 12.13.0"
   },
   "bugs": {
-    "url": "https://github.com/tryghost/gatsby-starter-ghost/issues"
+    "url": "https://github.com/austinlords/wedding-websites/issues"
   },
   "keywords": [
     "gatsby",
